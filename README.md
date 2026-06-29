@@ -1,11 +1,8 @@
-# artkc — Art Knowledge Commons
+# AI 기반 예술 창작 공유 지식 인프라 연구의 현황 분석과 개념틀 제안
+### Research Landscape and a Conceptual Framework for AI-Based Shared Knowledge Infrastructure for Art Creation
 
-생성형 AI와 예술 창작을 둘러싼 국내 연구의 **재현용 코퍼스·코드** 저장소입니다.
-Reproducibility corpus and code for the paper:
-
-> **AI 기반 예술 창작 공유 지식 인프라 연구의 현황 분석과 개념틀 제안**
-> *Research Landscape and a Conceptual Framework for AI-Based Shared Knowledge Infrastructure for Art Creation*
-> 배준형 (Joonhyung Bae), 한국과학기술원(KAIST) 문화기술대학원. 한국콘텐츠학회논문지 투고(심사 중), 2026.
+위 논문의 **재현용 코퍼스·코드** 저장소입니다. 한국콘텐츠학회논문지 투고(심사 중), 2026.
+*심사용 익명 저장소 — 저자 정보는 표기하지 않습니다.*
 
 ---
 
@@ -47,10 +44,7 @@ python3 code/make_figures.py # -> figures/fig{1,2,3}.pdf  (한글 폰트 Noto Sa
 
 ## 인용 / Citation
 
-```
-배준형, "AI 기반 예술 창작 공유 지식 인프라 연구의 현황 분석과 개념틀 제안,"
-한국콘텐츠학회논문지, (심사 중), 2026.
-```
+이 코퍼스·코드를 사용할 때는 해당 논문을 인용하십시오. 심사용 익명화로 저자·서지 정보는 생략합니다(채택 후 갱신).
 
 ## 라이선스 / License
 
