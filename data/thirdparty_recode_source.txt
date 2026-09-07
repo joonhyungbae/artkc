@@ -1,0 +1,6 @@
+# data/thirdparty_recode_110.json 을 산출한 모델
+model:   5.6 Sol Extra High (OpenAI Codex)
+date:    2026-08-24
+prompt:  data/recode_prompt_filled.md (지시문 + 코드북 + 블라인드 항목 110편)
+input:   제목과 저자 키워드만. 저널명·저자명·기존 코딩값은 제거됨.
+context: 이 저장소에 접근할 수 없는 별도 대화에서 1회 실행. 웹 검색·파일 열람 없음.

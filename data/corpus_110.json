@@ -1,0 +1,2436 @@
+[
+ {
+  "author": "전수진, 김승인",
+  "year": 2025,
+  "title": "AI 기반 이미지 생성 도구의 기술적 특성과 창의적 활용 비교에 관한 연구: 미드저니, 달·이, 어도비 파이어플라이 중심으로",
+  "journal": "산업진흥연구",
+  "volissue": "10(3)",
+  "pages": "121-130",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003231026",
+  "ko_keywords": [
+   "생성형 AI",
+   "이미지 생성 도구",
+   "미드저니",
+   "달·이",
+   "어도비 파이어플라이",
+   "디자인 실무"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P001"
+ },
+ {
+  "author": "임장한, 윤수진",
+  "year": 2024,
+  "title": "이미지 생성형 AI를 활용한 비주얼 아이덴티티 디자인의 표현 가능성 연구- 미드저니를 중심으로 -",
+  "journal": "브랜드디자인학연구",
+  "volissue": "22(1)",
+  "pages": "265-276",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003064825",
+  "ko_keywords": [
+   "비주얼 아이덴티티",
+   "미드저니",
+   "이미지 생성형 AI"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P002"
+ },
+ {
+  "author": "백순정, 이정현",
+  "year": 2025,
+  "title": "생성형 인공지능(AI) 활용 텍스타일 디자인 -디자인 플랫폼 활용을 중심으로-",
+  "journal": "기초조형학연구",
+  "volissue": "26(2)",
+  "pages": "221-235",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003202049",
+  "ko_keywords": [
+   "텍스타일 디자인",
+   "이미지 생성형 AI",
+   "프롬프트",
+   "디자이너-AI 협업",
+   "AI 리터러시"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P003"
+ },
+ {
+  "author": "강규연, 박선희",
+  "year": 2025,
+  "title": "생성형 AI를 활용한 패션 디자인 컬렉션 구현 - 지속 가능한 패션 디자인을 중심으로 -",
+  "journal": "한국패션디자인학회지",
+  "volissue": "25(1)",
+  "pages": "117-133",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003194739",
+  "ko_keywords": [
+   "생성형 AI",
+   "지속 가능한 패션",
+   "생성형 AI 패션",
+   "ChatGPT",
+   "Midjourney"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P004"
+ },
+ {
+  "author": "사한, 성락천, 이동열",
+  "year": 2024,
+  "title": "생성형 AI 기반 게임 캐릭터 디자인의 시각적 일관성 유지 방법 연구: Stable Diffusion Flux 모델",
+  "journal": "한국게임학회 논문지",
+  "volissue": "24(6)",
+  "pages": "157-168",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003147679",
+  "ko_keywords": [
+   "생성형 AI",
+   "스테이블 디퓨전",
+   "게임 캐릭터 디자인",
+   "캐릭터 시각적 일관성",
+   "디자인 프로세스"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "A_visual_design",
+   "B_media_video_webtoon"
+  ],
+  "pid": "P005"
+ },
+ {
+  "author": "이방원",
+  "year": 2025,
+  "title": "생성형 AI 시대 일러스트레이터의 역량에 대한 고찰",
+  "journal": "커뮤니케이션디자인학연구",
+  "volissue": "90",
+  "pages": "51-65",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003170338",
+  "ko_keywords": [
+   "일러스트레이션",
+   "생성형 AI",
+   "이미지 생성 AI",
+   "일러스트레이터"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "agency",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P006"
+ },
+ {
+  "author": "손숙영",
+  "year": 2025,
+  "title": "생성형 인공지능(GAI) 시대의 디자인 오리지널리티 재고찰",
+  "journal": "한국디자인리서치",
+  "volissue": "10(3)",
+  "pages": "554-562",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003245627",
+  "ko_keywords": [
+   "오리지널리티",
+   "생성형 인공지능",
+   "디지털 복제",
+   "디자인 교육"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "agency",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P007"
+ },
+ {
+  "author": "김재현",
+  "year": 2025,
+  "title": "2개의 공공건축 설계공모 사례에 기반한 생성형 AI 활용 분석과 교육 확장 기초연구",
+  "journal": "한국공간디자인학회 논문집",
+  "volissue": "20(5)",
+  "pages": "265-278",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003237624",
+  "ko_keywords": [
+   "AI 설계도구",
+   "공공건축",
+   "건축설계 교육",
+   "Midjourney",
+   "Stable Diffusion"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P008"
+ },
+ {
+  "author": "배윤지",
+  "year": 2024,
+  "title": "패션 디자인과 생성형 AI: 창작물의 범주와 윤리적 과제",
+  "journal": "한국의류산업학회지",
+  "volissue": "26(4)",
+  "pages": "326-338",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003115692",
+  "ko_keywords": [
+   "저작권",
+   "창작물",
+   "윤리적 과제",
+   "패션 디자인",
+   "생성형 AI"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "institution",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P009"
+ },
+ {
+  "author": "박서현, 가지현",
+  "year": 2024,
+  "title": "생성형 AI 창작물의 저작권 성립 여부 및 침해 요건 검토 -창작성 판단 기준과 차용미술과의 비교를 중심으로-",
+  "journal": "디자인 이노베이션 연구",
+  "volissue": "12",
+  "pages": "23-48",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003089488",
+  "ko_keywords": [
+   "생성형 AI",
+   "이미지 생성형 AI",
+   "생성형 AI 저작권 안내서",
+   "저작권법",
+   "창작성",
+   "인공지능",
+   "차용미술",
+   "공정이용",
+   "프롬프트"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "institution",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P010"
+ },
+ {
+  "author": "황지혜, 한정엽",
+  "year": 2024,
+  "title": "생성형 AI 기반 미디어아트의 상호작용 유형 및 특성 분석",
+  "journal": "한국공간디자인학회 논문집",
+  "volissue": "19(8)",
+  "pages": "487-494",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003155968",
+  "ko_keywords": [
+   "인공지능",
+   "생성형AI",
+   "미디어아트",
+   "상호작용",
+   "인터랙티브 미디어아트"
+  ],
+  "theme": "mediaart",
+  "proposed_unit": "audience",
+  "sources": [
+   "A_visual_design",
+   "B_media_video_webtoon",
+   "C_music_lit_performance"
+  ],
+  "pid": "P011"
+ },
+ {
+  "author": "Yang Liu, 김유빈, 장광집",
+  "year": 2024,
+  "title": "생성형 AI 기반 전시디자인에 대한 공간 경험 분석 - 관람객의 연상성을 중심으로 -",
+  "journal": "기초조형학연구",
+  "volissue": "25(2)",
+  "pages": "227-241",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003078936",
+  "ko_keywords": [
+   "생성형 AI",
+   "전시디자인",
+   "공간 경험",
+   "연상성"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "audience",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P012"
+ },
+ {
+  "author": "김권호, 김종하, 최종우",
+  "year": 2024,
+  "title": "생성형 AI 도구와 디자이너의 협업 프로세스 개발 - 이미지를 통한 아이디어 확산에서 고해상도 렌더링까지-",
+  "journal": "예술·디자인학연구",
+  "volissue": "27(2)",
+  "pages": "93-101",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003157676",
+  "ko_keywords": [
+   "생성형 인공지능",
+   "제품 디자인",
+   "디자인 프로세스",
+   "AI 기반 디자인 협업"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P013"
+ },
+ {
+  "author": "가욱휘, 송지성",
+  "year": 2024,
+  "title": "디자이너와 생성형 인공지능의 협업을 통한 디자인 이미지 생성에 관한 연구: ChatGPT와 Midjourney를 중심으로",
+  "journal": "공공디자인연구",
+  "volissue": "4(2)",
+  "pages": "30-42",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003092474",
+  "ko_keywords": [
+   "인간과 기계 협업 디자인",
+   "디자인 의도",
+   "프롬프트",
+   "쳇GPT",
+   "미드저니"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "agency",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P014"
+ },
+ {
+  "author": "황윤정, 무예",
+  "year": 2024,
+  "title": "생성형 AI 활용이 디자인과 학생들의 심리적 안정감과 창의적 성취에 미치는 영향에 관한 질적 연구",
+  "journal": "상품문화디자인학연구",
+  "volissue": "79",
+  "pages": "75-85",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003160441",
+  "ko_keywords": [
+   "생성형 AI",
+   "디자인교육",
+   "질적연구방법",
+   "심리적 안정감",
+   "창의적 성취"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "A_visual_design",
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P015"
+ },
+ {
+  "author": "김미영, 손유경",
+  "year": 2025,
+  "title": "텍스트 마이닝을 통한 패션 산업의 생성형 AI 융합적 활용 동향 분석",
+  "journal": "한국과학예술융합학회",
+  "volissue": "43(2)",
+  "pages": "47-63",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003185827",
+  "ko_keywords": [
+   "융합적 활용",
+   "패션 산업",
+   "생성형 AI",
+   "텍스트 마이닝",
+   "활용 동향 분석"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "institution",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P016"
+ },
+ {
+  "author": "나한범",
+  "year": 2024,
+  "title": "제품디자인 콘셉트 기반의 생성형 AI 프롬프트 활용 연구 : 미드저니를 활용한 가정용 전자동 에스프레소 머신 이미지 생성을 중심으로",
+  "journal": "상품문화디자인학연구",
+  "volissue": "76",
+  "pages": "191-202",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003069844",
+  "ko_keywords": [
+   "생성형 인공지능",
+   "인공지능 디자인",
+   "프롬프트",
+   "디자인 콘셉트",
+   "제품디자인"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P017"
+ },
+ {
+  "author": "민지영, 정병국",
+  "year": 2023,
+  "title": "디자인교육에서 ChatGPT와 Midjourney의 효과성 연구-스토리 일러스트레이션의 창작물을 중심으로-",
+  "journal": "브랜드디자인학연구",
+  "volissue": "21(3)",
+  "pages": "347-358",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003000518",
+  "ko_keywords": [
+   "쳇지피티",
+   "미드저니",
+   "디자인 교육"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P018"
+ },
+ {
+  "author": "이준준, 송지성",
+  "year": 2024,
+  "title": "스테이블 디퓨전 인공지능 생성 이미지를 통한 디자인 접근방법 연구 - 칭저우 박물관 롱싱사 불상 피규어 디자인을 중심으로",
+  "journal": "공공디자인연구",
+  "volissue": "4(4)",
+  "pages": "86-101",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003149085",
+  "ko_keywords": [
+   "스테이블 디퓨전",
+   "피규어 디자인",
+   "인공지능 이미지 생성"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P019"
+ },
+ {
+  "author": "조영각, 김현주",
+  "year": 2024,
+  "title": "기술철학적 관점을 반영한 생성적 인공지능 예술창작 사례 연구",
+  "journal": "디지털콘텐츠학회논문지",
+  "volissue": "25(9)",
+  "pages": "2525-2541",
+  "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11933509",
+  "ko_keywords": [
+   "인공지능",
+   "인공지능예술",
+   "프롬프트 엔지니어링",
+   "기술철학",
+   "인공지능미학"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "agency",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P020"
+ },
+ {
+  "author": "오연재, 김응곤",
+  "year": 2025,
+  "title": "생성형 AI 기반 멀티모달 시스템을 활용한 지능형 미술 전시 안내: 예술 감상의 패러다임 전환",
+  "journal": "한국전자통신학회 논문지",
+  "volissue": "20(2)",
+  "pages": "337-346",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003200980",
+  "ko_keywords": [
+   "생성형 AI",
+   "AI와 예술",
+   "문화 기술",
+   "멀티모달 AI"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "audience",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P021"
+ },
+ {
+  "author": "황민지, 김병욱, 한지애",
+  "year": 2025,
+  "title": "그래픽 디자인에서 이미지 생성형 AI 툴의 활용 우위도 분석",
+  "journal": "스마트미디어저널",
+  "volissue": "14(2)",
+  "pages": "9-18",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003177244",
+  "ko_keywords": [
+   "이미지 생성형 AI",
+   "우위",
+   "그래픽 디자인",
+   "디자인 프로세스"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P022"
+ },
+ {
+  "author": "조선형, 정다울",
+  "year": 2025,
+  "title": "패션 디자인 프로세스 증진을 위한 생성형 AI 도구 탐색 - 구상 및 구현 단계의 도식화 제작을 중심으로 -",
+  "journal": "한국디자인문화학회지",
+  "volissue": "31(3)",
+  "pages": "757-767",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003249230",
+  "ko_keywords": [
+   "패션 디자인 프로세스",
+   "생성형 AI",
+   "도식화",
+   "인간-AI 협업",
+   "AI 기반 패션 디자인"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P023"
+ },
+ {
+  "author": "박혜숙, 문필주",
+  "year": 2025,
+  "title": "생성형 AI를 활용한 패션디자인 저작권에 관한 연구",
+  "journal": "문화기술의 융합",
+  "volissue": "11(5)",
+  "pages": "675-682",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003247200",
+  "ko_keywords": [
+   "생성형 인공지능",
+   "저작권",
+   "지적 재산",
+   "생성형 AI기반 패션디자인"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "institution",
+  "sources": [
+   "A_visual_design"
+  ],
+  "pid": "P024"
+ },
+ {
+  "author": "곽소정, 정서연, 정원호, 권지은",
+  "year": 2024,
+  "title": "이미지 생성 AI를 활용한 미디어아트에 관한 연구",
+  "journal": "디지털예술공학멀티미디어논문지",
+  "volissue": "11(3)",
+  "pages": "325-334",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003122865",
+  "ko_keywords": [
+   "이미지 생성",
+   "생성 AI",
+   "미디어 아트",
+   "융합 예술"
+  ],
+  "theme": "mediaart",
+  "proposed_unit": "work",
+  "sources": [
+   "B_media_video_webtoon",
+   "C_music_lit_performance"
+  ],
+  "pid": "P025"
+ },
+ {
+  "author": "황윤희, 김재웅, 이은주, 이승후, 정임정",
+  "year": 2025,
+  "title": "생성형 인공지능 기반 웹툰 창작의 가능성",
+  "journal": "만화애니메이션연구",
+  "volissue": "(78)",
+  "pages": "143-182",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003191024",
+  "ko_keywords": [
+   "생성형 AI(인공지능)",
+   "AI(인공지능)",
+   "프롬프트 엔지니어링",
+   "웹툰",
+   "무빙 웹툰",
+   "미드저니(Midjourney)"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P026"
+ },
+ {
+  "author": "조수진, 김지현, 김수빈, 김단비, 권오훈",
+  "year": 2025,
+  "title": "한국 영화 및 드라마, OTT 콘텐츠의 VFX 제작 과정에서의 머신 러닝과 생성형 AI 적용에 대한 연구",
+  "journal": "애니메이션연구",
+  "volissue": "21(3)",
+  "pages": "287-315",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003249272",
+  "ko_keywords": [
+   "인공지능(AI)",
+   "머신 러닝",
+   "생성형 AI(GenAI)",
+   "VFX",
+   "한국 영화 제작"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P027"
+ },
+ {
+  "author": "김은정, 김정윤",
+  "year": 2025,
+  "title": "생성형 인공지능을 활용한 2D 게임 그래픽 에셋 제작 연구 동향",
+  "journal": "차세대컨버전스정보서비스기술논문지",
+  "volissue": "14(52 Suppl.1)",
+  "pages": "109-119",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003267771",
+  "ko_keywords": [
+   "생성형 인공지능",
+   "절차적 콘텐츠 생성",
+   "게임 그래픽 에셋",
+   "2D 스프라이트",
+   "픽셀 아트",
+   "생성적 적대 신경망",
+   "확산 모델"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P028"
+ },
+ {
+  "author": "Kim, Eun ah; Ahn, Jong-hyeck",
+  "year": 2025,
+  "title": "영상 제작 분야에서의 생성형 AI 활용에 관한 고찰 - 실제 프로젝트 제작 경험을 중심으로 -",
+  "journal": "커뮤니케이션디자인학연구",
+  "volissue": "(90)",
+  "pages": "547-563",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003170677",
+  "ko_keywords": [
+   "생성형 AI",
+   "영상 제작",
+   "프로세스의 변화",
+   "인간의 역할"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "agency",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P029"
+ },
+ {
+  "author": "강지영",
+  "year": 2024,
+  "title": "AI 기반 VFX 소프트웨어의 혁신: 영화 제작의 새로운 시대",
+  "journal": "디지털콘텐츠학회논문지",
+  "volissue": "25(8)",
+  "pages": "2239-2250",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003109980",
+  "ko_keywords": [
+   "인공지능",
+   "시각 효과",
+   "영화 제작",
+   "실시간 렌더링",
+   "영화산업"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "institution",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P030"
+ },
+ {
+  "author": "고재형, 한정엽",
+  "year": 2024,
+  "title": "생성형 AI 기술 기반 영상제작 프로세스 단계에 따른 작업 효율성 연구 - 국외 광고 영상 사례를 중심으로-",
+  "journal": "한국공간디자인학회 논문집",
+  "volissue": "19(4)",
+  "pages": "133-142",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003093896",
+  "ko_keywords": [
+   "AI",
+   "영상",
+   "AI영상",
+   "AI영상제작",
+   "생성형AI"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P031"
+ },
+ {
+  "author": "한보라",
+  "year": 2024,
+  "title": "AI와 웹툰 창작자의 미래 상생 방향",
+  "journal": "한국컴퓨터정보학회논문지",
+  "volissue": "29(2)",
+  "pages": "87-99",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003055364",
+  "ko_keywords": [
+   "AI 웹툰",
+   "이미지 생성형 인공지능",
+   "AI 디렉터 모델",
+   "웹툰 창작자 역할 변화",
+   "AI 창작자"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "agency",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P032"
+ },
+ {
+  "author": "방우송",
+  "year": 2025,
+  "title": "생성형 AI가 시각 콘텐츠 제작 인식에 미치는 영향 -애니메이션 웹툰 신입생 설문을 통한 교과 과정 개편 연구",
+  "journal": "애니메이션연구",
+  "volissue": "21(2)",
+  "pages": "141-158",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003219094",
+  "ko_keywords": [
+   "AI",
+   "시각 콘텐츠",
+   "교과 과정",
+   "애니메이션",
+   "웹툰"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P033"
+ },
+ {
+  "author": "윤정윤, 감성원",
+  "year": 2024,
+  "title": "생성형 AI 활용 경험이 만화애니메이션 및 디자인 전공 대학생들의 AI 인식 변화에 미치는 영향 분석",
+  "journal": "조형미디어학",
+  "volissue": "27(4)",
+  "pages": "112-123",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003145483",
+  "ko_keywords": [
+   "생성형 인공지능",
+   "예술분야의 생성형 인공지능",
+   "대학생의 인공지능 인식",
+   "인공지능과 창의적 프로세스"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P034"
+ },
+ {
+  "author": "서현경",
+  "year": 2024,
+  "title": "생성형 AI를 활용한 사용자 맞춤 영상 제작 활용 가능성 분석",
+  "journal": "한국컴퓨터정보학회논문지",
+  "volissue": "29(11)",
+  "pages": "127-136",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003139192",
+  "ko_keywords": [
+   "생성형AI",
+   "생성형AI 영상제작",
+   "생성형AI 연출",
+   "이미지-투-비디오",
+   "생성형AI 영상",
+   "생성형AI 영화"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P035"
+ },
+ {
+  "author": "Kim Ji-eun, O Na-ye, Park Jin-wan",
+  "year": 2024,
+  "title": "웹툰 제작 과정에서의 인공지능 기술 활용 방안 연구",
+  "journal": "디지털콘텐츠학회논문지",
+  "volissue": "25(6)",
+  "pages": "1399-1409",
+  "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11821438",
+  "ko_keywords": [
+   "웹툰",
+   "일러스트레이션",
+   "인공지능 기술",
+   "자동화",
+   "재현"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P036"
+ },
+ {
+  "author": "이승진, 이정윤",
+  "year": 2025,
+  "title": "웹툰 기획단계 ChatGPT 활용 최적화 방향성 연구",
+  "journal": "만화애니메이션연구",
+  "volissue": "(80)",
+  "pages": "223-248",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003253484",
+  "ko_keywords": [
+   "AI 웹툰 콘티",
+   "ChatGPT 활용 웹툰기획",
+   "레몬파이나이트",
+   "AHP 분석"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P037"
+ },
+ {
+  "author": "손영화",
+  "year": 2023,
+  "title": "생성형 AI에 의한 창작물과 저작권",
+  "journal": "법과정책연구",
+  "volissue": "23(3)",
+  "pages": "357-389",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003007936",
+  "ko_keywords": [
+   "생성형 인공지능",
+   "생성형 AI",
+   "AI를 이용한 창작물",
+   "창작적 기여",
+   "챗GPT",
+   "AI 자율창작물",
+   "데이터베이스",
+   "공정이용 원칙",
+   "데이터마이닝 및 텍스트마이닝"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "institution",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P038"
+ },
+ {
+  "author": "강혜수, 이캐시연주",
+  "year": 2025,
+  "title": "그래픽 디자인 산업에서 생성형 AI 기반 작업의 비인지능력 결여 문제와 시사점: 2023년~2025년 사례 분석을 중심으로",
+  "journal": "비즈니스융복합연구",
+  "volissue": "10(2)",
+  "pages": "183-189",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003200693",
+  "ko_keywords": [
+   "생성형 AI",
+   "AI와 디자인",
+   "그래픽 디자인 산업",
+   "AI 디자이너",
+   "비인지능력",
+   "VUCA 시대"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "agency",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P039"
+ },
+ {
+  "author": "장운초",
+  "year": 2024,
+  "title": "생성형 AI를 활용한 영상 콘텐츠 제작 과정 연구",
+  "journal": "커뮤니케이션디자인학연구",
+  "volissue": "(88)",
+  "pages": "315-326",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003104776",
+  "ko_keywords": [
+   "생성형 AI",
+   "AI 기반 영상제작",
+   "AI 콘텐츠 제작 윤리"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "B_media_video_webtoon"
+  ],
+  "pid": "P040"
+ },
+ {
+  "author": "고윤화",
+  "year": 2025,
+  "title": "생성형 AI 시대의 음악 작가성 논의: K-pop의 공동창작과 주체성의 이동",
+  "journal": "이화음악논집",
+  "volissue": "29(3)",
+  "pages": "87-111",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003251529",
+  "ko_keywords": [
+   "생성형 인공지능",
+   "음악 작가성",
+   "케이팝",
+   "공동창작",
+   "창작 주체성"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "agency",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P041"
+ },
+ {
+  "author": "이다영",
+  "year": 2024,
+  "title": "작곡 AI의 현재와 쟁점에 따른 국내 음악저작권 논의방향 연구",
+  "journal": "대중음악",
+  "volissue": "33",
+  "pages": "241-274",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003083717",
+  "ko_keywords": [
+   "작곡 AI",
+   "음악저작권",
+   "생성형 AI",
+   "AI 저작권",
+   "저작권법"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "institution",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P042"
+ },
+ {
+  "author": "조정일, 박재완",
+  "year": 2025,
+  "title": "생성형 AI 음악 식별을 위한 데이터 셋 구축 및 검증",
+  "journal": "아시아태평양융합연구교류논문지",
+  "volissue": "11(2)",
+  "pages": "1-11",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003176123",
+  "ko_keywords": [
+   "생성형 AI",
+   "음향 특성",
+   "음악 데이터 셋",
+   "AI 생성 음악"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P043"
+ },
+ {
+  "author": "심재휘",
+  "year": 2025,
+  "title": "생성형 AI의 서정시 창작 실태에 관한 시론―무료 사양을 중심으로―",
+  "journal": "돈암어문학",
+  "volissue": "48",
+  "pages": "289-323",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003293971",
+  "ko_keywords": [
+   "생성형AI",
+   "인공지능",
+   "서정시",
+   "프롬프트",
+   "LLM",
+   "기계적 모방",
+   "진정성",
+   "완성도"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P044"
+ },
+ {
+  "author": "김소륜",
+  "year": 2023,
+  "title": "포스트휴먼의 글쓰기, 창작인가 조합인가? -'생성형 AI'를 활용한 소설 창작에 관한 고찰-",
+  "journal": "돈암어문학",
+  "volissue": "44",
+  "pages": "105-127",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003044283",
+  "ko_keywords": [
+   "생성형 AI",
+   "챗지피티",
+   "소설 창작",
+   "조합",
+   "횡단적 주체",
+   "로지 브라이도티"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "agency",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P045"
+ },
+ {
+  "author": "김지혜",
+  "year": 2023,
+  "title": "생성형 인공지능을 활용한 소설 창작 교육의 가능성",
+  "journal": "어문연구",
+  "volissue": "51(4)",
+  "pages": "373-401",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003029333",
+  "ko_keywords": [
+   "생성형 인공지능",
+   "소설 창작",
+   "소설 창작 교육",
+   "창의성",
+   "AI시대의 창작 역량",
+   "챗GPT",
+   "Bard"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P046"
+ },
+ {
+  "author": "조선영",
+  "year": 2024,
+  "title": "생성형 인공지능과 이야기 창작: 프롬프트를 중심으로",
+  "journal": "시민인문학",
+  "volissue": "46",
+  "pages": "189-213",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003055394",
+  "ko_keywords": [
+   "인공지능",
+   "챗GPT",
+   "이야기 창작",
+   "프롬프트",
+   "민담 형태론"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P047"
+ },
+ {
+  "author": "박성준",
+  "year": 2024,
+  "title": "AI를 활용한 웹소설 창작의 현재와 미래 - AI 웹소설 창작 플랫폼을 중심으로 -",
+  "journal": "문화콘텐츠연구",
+  "volissue": "32",
+  "pages": "199-241",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003155992",
+  "ko_keywords": [
+   "웹소설",
+   "AI",
+   "플랫폼",
+   "창작",
+   "장르"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "institution",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P048"
+ },
+ {
+  "author": "서경숙",
+  "year": 2024,
+  "title": "AI 창작 기술에 따른 인공지능 소설의 유형 분석",
+  "journal": "현대영어영문학",
+  "volissue": "68(2)",
+  "pages": "75-92",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003084544",
+  "ko_keywords": [
+   "AI",
+   "AI novels",
+   "Pharmako-AI"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P049"
+ },
+ {
+  "author": "장순규",
+  "year": 2024,
+  "title": "생성형 AI을 활용한 창작 활동의 윤리적 기준 탐색 - 온라인 만화 작가를 중심으로 -",
+  "journal": "한국디자인포럼",
+  "volissue": "29(1)",
+  "pages": "17-26",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003051989",
+  "ko_keywords": [
+   "생성형 AI",
+   "디자인 윤리",
+   "저작권"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "institution",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P050"
+ },
+ {
+  "author": "Kim Yung-Yoon, 조준희",
+  "year": 2024,
+  "title": "인간-AI 공동창작 공연예술 특성 연구 : 국내 AI 공연예술 작품을 중심으로",
+  "journal": "지식과 교양",
+  "volissue": "14",
+  "pages": "397-424",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003070110",
+  "ko_keywords": [
+   "인공지능",
+   "인공창의",
+   "공연예술",
+   "공동창작",
+   "현존",
+   "디지털 아우라"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P051"
+ },
+ {
+  "author": "조병철, 방준성",
+  "year": 2024,
+  "title": "생성형 인공지능을 활용한 문화예술의 창작과 창의성 평가에 관한 연구",
+  "journal": "방송공학회 논문지",
+  "volissue": "29(5)",
+  "pages": "596-605",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003121105",
+  "ko_keywords": [
+   "Generative AI",
+   "Cultural Arts",
+   "Creativity",
+   "Collaboration",
+   "Evaluation"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P052"
+ },
+ {
+  "author": "이재박",
+  "year": 2024,
+  "title": "생성 인공지능에 대한 예술 전공생의 인식 조사",
+  "journal": "인공지능인문학연구",
+  "volissue": "18",
+  "pages": "153-179",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003154141",
+  "ko_keywords": [
+   "인공지능",
+   "예술 전공생",
+   "인식",
+   "창작",
+   "미래 전망"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "audience",
+  "sources": [
+   "C_music_lit_performance",
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P053"
+ },
+ {
+  "author": "강영훈, 이동수",
+  "year": 2024,
+  "title": "박물관에서의 생성형 인공지능(Generative AI) 활용에 관한 제언",
+  "journal": "상품문화디자인학연구",
+  "volissue": "78",
+  "pages": "319-332",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003126535",
+  "ko_keywords": [
+   "박물관",
+   "미술관",
+   "생성형 인공지능",
+   "인공지능 활용",
+   "AI"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "institution",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P054"
+ },
+ {
+  "author": "이보람",
+  "year": 2025,
+  "title": "디자인씽킹을 활용한 박물관의 AI 기반 전시 큐레이션 서비스 혁신 연구",
+  "journal": "비즈니스융복합연구",
+  "volissue": "10(2)",
+  "pages": "231-240",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003203738",
+  "ko_keywords": [
+   "AI 큐레이션",
+   "디자인씽킹",
+   "박물관 전시 기법",
+   "디지털 큐레이션",
+   "관람객 경험"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "institution",
+  "sources": [
+   "C_music_lit_performance"
+  ],
+  "pid": "P055"
+ },
+ {
+  "author": "이지연",
+  "year": 2024,
+  "title": "이미지 생성형 인공지능(AI)의 미술교육적 활용 방안 탐구",
+  "journal": "미술과 교육",
+  "volissue": "25(3)",
+  "pages": "65-79",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003107399",
+  "ko_keywords": [
+   "이미지 생성형 AI 도구",
+   "프롬프트 엔지니어링",
+   "인공지능 미술교육",
+   "비판적 사고와 논리적 사고",
+   "디지털 미술교육"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P056"
+ },
+ {
+  "author": "강주희, 장윤경, 김지은, 이지연",
+  "year": 2025,
+  "title": "이미지 생성형 AI 활용 초등학생 대상 미술 수업의 실제",
+  "journal": "미술과 교육",
+  "volissue": "26(2)",
+  "pages": "1-19",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003203252",
+  "ko_keywords": [
+   "이미지 생성형 AI 도구",
+   "프롬프트 엔지니어링",
+   "인공지능 활용 미술교육",
+   "비판적 사고와 논리적 사고"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P057"
+ },
+ {
+  "author": "장윤경, 윤인화, 박지원, 제갈유진, 이지연",
+  "year": 2023,
+  "title": "이미지 생성 AI 도구의 이해와 미술교육의 활용 가능성 탐구",
+  "journal": "조형교육",
+  "volissue": "88",
+  "pages": "277-298",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003020211",
+  "ko_keywords": [
+   "이미지 생성 AI",
+   "AI 도구 활용 미술교육",
+   "미래미술교육"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P058"
+ },
+ {
+  "author": "류하영, 이상민",
+  "year": 2023,
+  "title": "미술교육에서 인공지능 리터러시의 개념과 과제 탐색",
+  "journal": "미술교육연구논총",
+  "volissue": "74",
+  "pages": "75-96",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002987513",
+  "ko_keywords": [
+   "미술교육",
+   "인공지능",
+   "인공지능 리터러시"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P059"
+ },
+ {
+  "author": "공완욱",
+  "year": 2025,
+  "title": "AI 시대 시각문화 환경에서의 비주얼 리터러시 교육",
+  "journal": "미술교육연구논총",
+  "volissue": "82",
+  "pages": "1-30",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003233414",
+  "ko_keywords": [
+   "인공지능",
+   "시각문화",
+   "비주얼 리터러시",
+   "미술교육"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P060"
+ },
+ {
+  "author": "김화슬",
+  "year": 2024,
+  "title": "생성형 AI를 활용한 미술 중심 융합교육 프로그램 개발 및 적용",
+  "journal": "미술교육연구논총",
+  "volissue": "76",
+  "pages": "71-97",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003052823",
+  "ko_keywords": [
+   "미술 중심 융합교육",
+   "생성형 AI",
+   "STEAM",
+   "예술융합교육",
+   "텍스트 투 이미지"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P061"
+ },
+ {
+  "author": "김화슬, 이수진",
+  "year": 2024,
+  "title": "미술교육 학습 도구로서 활용을 위한 생성형 AI 서비스 분석",
+  "journal": "차세대컨버전스정보서비스기술논문지",
+  "volissue": "13(1)",
+  "pages": "19-29",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003056120",
+  "ko_keywords": [
+   "생성형 AI",
+   "미술교육",
+   "텍스트 투 이미지",
+   "멀티모달 AI"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P062"
+ },
+ {
+  "author": "권동현",
+  "year": 2024,
+  "title": "이미지 생성 AI 발전 동향에 따른 교육 방향 모색",
+  "journal": "만화애니메이션연구",
+  "volissue": "74",
+  "pages": "471-514",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003069549",
+  "ko_keywords": [
+   "생성형 AI",
+   "인터페이스",
+   "발전",
+   "동향",
+   "교육"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P063"
+ },
+ {
+  "author": "안서정, 심영옥",
+  "year": 2022,
+  "title": "인공지능 미술의 예술적 가치 판단 프로그램 개발 연구: 고등학교 미술교육을 중심으로",
+  "journal": "조형교육",
+  "volissue": "84",
+  "pages": "141-164",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002900983",
+  "ko_keywords": [
+   "인공지능",
+   "미술교육",
+   "감상 교육",
+   "인공지능 미술",
+   "인공지능 교육"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P064"
+ },
+ {
+  "author": "김종진, 장항배",
+  "year": 2025,
+  "title": "AI 창작물의 저작권 등록 기준과 개선 방향: 문화체육관광부의 생성형 AI 저작권 안내서를 중심으로",
+  "journal": "지식재산연구",
+  "volissue": "20(1)",
+  "pages": "39-61",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003184631",
+  "ko_keywords": [
+   "인공지능 저작권",
+   "생성형 AI",
+   "프롬프트 창작",
+   "인공지능 창작",
+   "인공지능 조수"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "institution",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P065"
+ },
+ {
+  "author": "한승민, 홍세인, 최재서, 정윤혁",
+  "year": 2024,
+  "title": "인공지능 생성 콘텐츠(AIGC)와 인공지능 사용 공개(AID)에 대한 소비자 인식 연구",
+  "journal": "경영정보학연구",
+  "volissue": "26(4)",
+  "pages": "187-216",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003142131",
+  "ko_keywords": [
+   "생성형 AI",
+   "AI 콘텐츠 생성",
+   "AI 사용 여부 공개",
+   "진정성",
+   "기만",
+   "카노 모형"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "audience",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P066"
+ },
+ {
+  "author": "김민정, 이승민",
+  "year": 2024,
+  "title": "AI 정보의 표시: AI기반 콘텐츠에 대한 소비자 반응",
+  "journal": "비즈니스융복합연구",
+  "volissue": "9(6)",
+  "pages": "19-25",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003161760",
+  "ko_keywords": [
+   "AI 정보 표시",
+   "AI 생성 콘텐츠",
+   "메시지 유형",
+   "소비자 반응"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "audience",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P067"
+ },
+ {
+  "author": "전원영, 김재웅, 오은영",
+  "year": 2025,
+  "title": "생성형 AI와 대중의 인식: 이미지 생성형 AI에 대한 설문조사 결과",
+  "journal": "산업과 과학",
+  "volissue": "4(4)",
+  "pages": "132-142",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003227894",
+  "ko_keywords": [
+   "생성형",
+   "인공지능",
+   "대중",
+   "인식",
+   "미드저니",
+   "달리"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "audience",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P068"
+ },
+ {
+  "author": "김전희",
+  "year": 2021,
+  "title": "인공지능 그림의 예술성",
+  "journal": "미학예술학연구",
+  "volissue": "63",
+  "pages": "168-197",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002738027",
+  "ko_keywords": [
+   "노엘 캐롤",
+   "미적 경험",
+   "비어즐리",
+   "인공지능",
+   "인공지능 작품",
+   "인셉셔니즘"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P069"
+ },
+ {
+  "author": "이재박",
+  "year": 2023,
+  "title": "생성 인공지능에 의한 '창의성의 자동화'가 예술에 미치는 영향에 대한 전망",
+  "journal": "인공지능인문학연구",
+  "volissue": "13",
+  "pages": "39-69",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002959642",
+  "ko_keywords": [
+   "생성 인공지능",
+   "창의성의 자동화",
+   "예술",
+   "챗지피티",
+   "미드저니"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "agency",
+  "sources": [
+   "D_edu_law_aesthetics"
+  ],
+  "pid": "P070"
+ },
+ {
+  "author": "신용남, 김선희",
+  "year": 2024,
+  "title": "패션 상품 기획 프로세스를 위한 생성형 AI 리터러시 제안",
+  "journal": "한국콘텐츠학회논문지",
+  "volissue": "24(11)",
+  "pages": "519-532",
+  "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11998425",
+  "ko_keywords": [
+   "패션 디자인 창작 프로세스",
+   "프롬프트 엔지니어링",
+   "생성형 AI 리터러시",
+   "패션 상품 기획"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "JKCA_creation"
+  ],
+  "pid": "P071"
+ },
+ {
+  "author": "류커준, 사우동, 최석",
+  "year": 2025,
+  "title": "학습성격 유형별 AI 의존도가 창의력에 미치는 영향 연구 -미술‧디자인, 음악 전공 대학원생을 중심으로-",
+  "journal": "한국콘텐츠학회논문지",
+  "volissue": "25(2)",
+  "pages": "251-263",
+  "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12109104",
+  "ko_keywords": [
+   "학습 유형",
+   "창의력",
+   "AI 의존도"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "agency",
+  "sources": [
+   "JKCA_creation"
+  ],
+  "pid": "P072"
+ },
+ {
+  "author": "왕자선, 김세화",
+  "year": 2024,
+  "title": "디자인전공 학생의 생성형 AI 수용에 관한 연구",
+  "journal": "한국콘텐츠학회논문지",
+  "volissue": "24(6)",
+  "pages": "66-76",
+  "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11826245",
+  "ko_keywords": [
+   "생성형 AI",
+   "디자인교육",
+   "기술수용모형",
+   "혁신 특성"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "JKCA_creation"
+  ],
+  "pid": "P073"
+ },
+ {
+  "author": "박한하, 한혜원",
+  "year": 2024,
+  "title": "생성형 인공지능의 프롬프트 글쓰기 분석",
+  "journal": "한국콘텐츠학회논문지",
+  "volissue": "24(4)",
+  "pages": "59-67",
+  "url": "https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11758668",
+  "ko_keywords": [
+   "생성형 AI",
+   "프롬프트",
+   "전자적 글쓰기",
+   "이미지 생성",
+   "텍스트 생성",
+   "혼종적 체계"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "JKCA_creation"
+  ],
+  "pid": "P074"
+ },
+ {
+  "author": "강지담, 이철희",
+  "year": 2023,
+  "title": "음악 작곡 과정에서 생성형 AI의 예술 창작 주체성 논의 및 활용 방법 연구",
+  "journal": "한국콘텐츠학회논문지",
+  "volissue": "23(12)",
+  "pages": "58-67",
+  "url": "https://doi.org/10.5392/JKCA.2023.23.12.058",
+  "ko_keywords": [
+   "작곡",
+   "생성형 AI",
+   "작곡 AI",
+   "AI 예술 창작 주체성",
+   "AI 활용 방법",
+   "상호매개성"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "agency",
+  "sources": [
+   "JKCA_creation"
+  ],
+  "pid": "P075"
+ },
+ {
+  "author": "변지선, 송상민, 황은경, 박성원, 김재웅",
+  "year": 2023,
+  "title": "게임 개발에 적용된 GAN 기반 인공지능을 활용한 효율적인 2D 애니메이션 배경 생성 프레임워크",
+  "journal": "한국콘텐츠학회논문지",
+  "volissue": "23(8)",
+  "pages": "10-18",
+  "url": "https://doi.org/10.5392/JKCA.2023.23.08.010",
+  "ko_keywords": [
+   "과학기술",
+   "인공지능",
+   "딥러닝",
+   "게임 아트",
+   "게임 배경"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "work",
+  "sources": [
+   "JKCA_creation"
+  ],
+  "pid": "P076"
+ },
+ {
+  "author": "이영수",
+  "year": 2024,
+  "title": "AI 캐릭터 봇을 활용한 콘텐츠 창작 대학 수업 설계 연구 및 운영사례",
+  "journal": "한국콘텐츠학회논문지",
+  "volissue": "24(12)",
+  "pages": "253-262",
+  "url": "https://doi.org/10.5392/JKCA.2024.24.12.253",
+  "ko_keywords": [
+   "대학 수업 설계",
+   "AI 캐릭터 채팅",
+   "캐릭터 AI",
+   "투닝 GPT베타",
+   "AI"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "JKCA_creation"
+  ],
+  "pid": "P077"
+ },
+ {
+  "author": "김선영",
+  "year": 2024,
+  "title": "대학교육에서 멀티모달 기반 생성형 AI를 활용한 콘텐츠 제작 프로그램 사례 연구",
+  "journal": "한국콘텐츠학회논문지",
+  "volissue": "24(11)",
+  "pages": "609-617",
+  "url": "https://doi.org/10.5392/JKCA.2024.24.11.609",
+  "ko_keywords": [
+   "생성형 AI",
+   "멀티모달",
+   "콘텐츠 제작",
+   "다중지능 이론",
+   "사례 연구"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "JKCA_creation"
+  ],
+  "pid": "P078"
+ },
+ {
+  "author": "민병운, 정휘관",
+  "year": 2025,
+  "title": "전통적 광고와 생성형 AI 광고의 효과성 비교 탐색적 연구 : 볼보 광고를 중심으로",
+  "journal": "한국콘텐츠학회논문지",
+  "volissue": "25(4)",
+  "pages": "482-496",
+  "url": "https://doi.org/10.5392/JKCA.2025.25.04.482",
+  "ko_keywords": [
+   "생성형 AI 광고",
+   "전통적 광고",
+   "광고 설득력",
+   "광고 태도",
+   "구매 의도",
+   "브랜드 태도"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "audience",
+  "sources": [
+   "JKCA_creation"
+  ],
+  "pid": "P079"
+ },
+ {
+  "author": "김진호, 박단비, 차승빈, 이태하",
+  "year": 2025,
+  "title": "생성형 AI 기반 영상 제작 교육이 창의적 자기효능감과 전문가 정체성에 미치는 영향",
+  "journal": "한국콘텐츠학회논문지",
+  "volissue": "25(12)",
+  "pages": "740-750",
+  "url": "https://doi.org/10.5392/JKCA.2025.25.12.740",
+  "ko_keywords": [
+   "생성형 AI",
+   "AI 생성 콘텐츠",
+   "영상 제작",
+   "AI 교육",
+   "AI 리터러시"
+  ],
+  "theme": "AIcreate",
+  "proposed_unit": "edu",
+  "sources": [
+   "JKCA_creation"
+  ],
+  "pid": "P080"
+ },
+ {
+  "author": "이지항, 이동건, 최수미, 신완식",
+  "year": 2021,
+  "title": "인공지능 시대, 문화예술 분야로의 확장",
+  "journal": "문화예술융합연구",
+  "volissue": "2(2)",
+  "pages": "29-39",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002895969",
+  "ko_keywords": [
+   "인공지능",
+   "딥러닝",
+   "생성모델",
+   "문화예술콘텐츠",
+   "인공지능-문화예술 융합연구"
+  ],
+  "theme": "divide",
+  "proposed_unit": "agency",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P081"
+ },
+ {
+  "author": "정의태, 조순옥",
+  "year": 2024,
+  "title": "디자인 전공 교과목에서의 생성형 AI 도구 활용 사례 연구",
+  "journal": "예술·디자인학연구",
+  "volissue": "27(2)",
+  "pages": "151-161",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003157683",
+  "ko_keywords": [
+   "생성형 AI",
+   "디자인 교육",
+   "창의적 사고"
+  ],
+  "theme": "divide",
+  "proposed_unit": "edu",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P082"
+ },
+ {
+  "author": "강지나, 김윤경",
+  "year": 2023,
+  "title": "예술인 복지 제도가 예술인들의 경제적, 예술적 활동에 미친 영향에 대한 실증 분석",
+  "journal": "문화정책논총",
+  "volissue": "37(1)",
+  "pages": "211-244",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002956523",
+  "ko_keywords": [
+   "예술인 복지 제도",
+   "예술인 실태조사",
+   "예술인 복지법",
+   "경제적 활동",
+   "예술적 활동"
+  ],
+  "theme": "artist",
+  "proposed_unit": "institution",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P083"
+ },
+ {
+  "author": "양현미",
+  "year": 2023,
+  "title": "예술인 복지 관점의 창작공간 지원 정책 연구",
+  "journal": "문화예술경영학연구",
+  "volissue": "16(1)",
+  "pages": "9-47",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002954193",
+  "ko_keywords": [
+   "창작공간",
+   "작업공간",
+   "생활/작업공간",
+   "민관협력모델",
+   "예술인복지정책"
+  ],
+  "theme": "artist",
+  "proposed_unit": "institution",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P084"
+ },
+ {
+  "author": "정다해, 박나라",
+  "year": 2023,
+  "title": "국가 위기 속 문화예술: 코로나19 시기 문화예술 지원 정책 담론분석",
+  "journal": "담론201",
+  "volissue": "26(1)",
+  "pages": "143-191",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002939072",
+  "ko_keywords": [
+   "코로나19",
+   "문화예술 지원 정책",
+   "비판적 담론분석"
+  ],
+  "theme": "artist",
+  "proposed_unit": "institution",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P085"
+ },
+ {
+  "author": "이윤영, 한민권",
+  "year": 2024,
+  "title": "예술인 사회보장 제도의 현황 분석을 통한 법적 개선방안 제언",
+  "journal": "스포츠엔터테인먼트와 법",
+  "volissue": "27(4)",
+  "pages": "69-90",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003146568",
+  "ko_keywords": [
+   "예술인",
+   "예술인 복지법",
+   "사회보장 제도",
+   "앵떼르미땅 제도",
+   "예술인 고용보험"
+  ],
+  "theme": "artist",
+  "proposed_unit": "institution",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P086"
+ },
+ {
+  "author": "고용수",
+  "year": 2023,
+  "title": "지역소멸 대응을 위한 시각예술 기반 시설 지원 방안 연구",
+  "journal": "한국예술연구",
+  "volissue": "42",
+  "pages": "263-287",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003022741",
+  "ko_keywords": [
+   "지역소멸",
+   "시각예술 기반 시설",
+   "한국문화예술위원회",
+   "한국문화예술회관연합회",
+   "지원 방안"
+  ],
+  "theme": "artist",
+  "proposed_unit": "institution",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P087"
+ },
+ {
+  "author": "김소연, 주익현, 이시림",
+  "year": 2022,
+  "title": "예술 지원 경로에 따른 예술인 삶의 질 효과분석",
+  "journal": "문화경제연구",
+  "volissue": "25(3)",
+  "pages": "85-110",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002925735",
+  "ko_keywords": [
+   "예술인",
+   "예술정책만족도",
+   "예술활동만족도",
+   "예술지원금",
+   "예술경력"
+  ],
+  "theme": "artist",
+  "proposed_unit": "institution",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P088"
+ },
+ {
+  "author": "백석원, 배관표",
+  "year": 2022,
+  "title": "내재적 일자리 질의 중요성에 관한 연구: 예술·체육계를 중심으로",
+  "journal": "문화정책논총",
+  "volissue": "36(2)",
+  "pages": "111-146",
+  "url": "https://jcp.kcti.re.kr/archive/view_article?pid=jcp-36-2-111",
+  "ko_keywords": [
+   "일자리의 질",
+   "근로환경만족도",
+   "예술인",
+   "체육인",
+   "일자리 정책"
+  ],
+  "theme": "artist",
+  "proposed_unit": "institution",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P089"
+ },
+ {
+  "author": "한석진",
+  "year": 2022,
+  "title": "한국형 문화예술 거버넌스 실천에 대한 비판적 검토 -서울문화재단 사례를 중심으로-",
+  "journal": "무용예술학연구",
+  "volissue": "89(5)",
+  "pages": "89-102",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002913177",
+  "ko_keywords": [
+   "거버넌스",
+   "문화예술",
+   "지역 거버넌스",
+   "서울문화재단",
+   "예술가"
+  ],
+  "theme": "artist",
+  "proposed_unit": "institution",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P090"
+ },
+ {
+  "author": "손수나, 유지연",
+  "year": 2022,
+  "title": "포스트 코로나 시대의 지역문화예술 지원정책 방향 연구",
+  "journal": "지역과문화",
+  "volissue": "9(1)",
+  "pages": "1-20",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002823686",
+  "ko_keywords": [
+   "코로나19",
+   "공연예술",
+   "문화예술지원정책",
+   "지역문화분권",
+   "지역문화정책"
+  ],
+  "theme": "artist",
+  "proposed_unit": "institution",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P091"
+ },
+ {
+  "author": "권승은, 김교성",
+  "year": 2024,
+  "title": "청년 예술인의 노동 특수성과 불안정성 감당하기",
+  "journal": "비판사회정책",
+  "volissue": "(85)",
+  "pages": "167-207",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003144616",
+  "ko_keywords": [
+   "청년 예술인",
+   "예술 노동",
+   "불안정성",
+   "일반적 질적연구"
+  ],
+  "theme": "generation",
+  "proposed_unit": "agency",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P092"
+ },
+ {
+  "author": "김현중",
+  "year": 2023,
+  "title": "예술가 정체성에 대한 질적 연구 - 음악인의 심층 인터뷰를 중심으로 -",
+  "journal": "대중음악",
+  "volissue": "(31)",
+  "pages": "61-94",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002962488",
+  "ko_keywords": [
+   "예술가",
+   "예술인",
+   "음악",
+   "정체성",
+   "심층면담"
+  ],
+  "theme": "generation",
+  "proposed_unit": "agency",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P093"
+ },
+ {
+  "author": "김지희",
+  "year": 2024,
+  "title": "아티스트 레지던시 프로그램이 작가의 작업에 미치는 영향 연구",
+  "journal": "기초조형학연구",
+  "volissue": "25(6)",
+  "pages": "157-168",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003167141",
+  "ko_keywords": [
+   "아티스트 레지던시",
+   "예술지원",
+   "지역사회",
+   "예술협업"
+  ],
+  "theme": "generation",
+  "proposed_unit": "institution",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P094"
+ },
+ {
+  "author": "조은성",
+  "year": 2023,
+  "title": "국내 아트아카이브의 발전을 위한 과제 모색: 서울시립 미술아카이브의 조성과정을 중심으로",
+  "journal": "기록학연구",
+  "volissue": "(75)",
+  "pages": "213-248",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002928082",
+  "ko_keywords": [
+   "서울시립 미술아카이브",
+   "아트아카이브",
+   "미술아카이브",
+   "수집정책",
+   "art archives"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "infra_type": "preservation",
+  "pid": "P095"
+ },
+ {
+  "author": "이지은, 김지현",
+  "year": 2023,
+  "title": "미술 아카이브 저작권 쟁점에 관한 연구",
+  "journal": "한국기록관리학회지",
+  "volissue": "23(3)",
+  "pages": "1-20",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002991668",
+  "ko_keywords": [
+   "아트 아카이브",
+   "시각예술 아카이브",
+   "미술관 아카이브",
+   "아키비스트",
+   "저작권법"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "infra_type": "preservation",
+  "pid": "P096"
+ },
+ {
+  "author": "왕연주, 이승현, 최운희",
+  "year": 2024,
+  "title": "대학로 공연장 집적의 장소성과 관람 행동에 따른 공연성과에 관한 연구: KOPIS와 K-MEANS 군집 알고리즘에 기반으로",
+  "journal": "디지털콘텐츠학회논문지",
+  "volissue": "25(1)",
+  "pages": "199-215",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003048195",
+  "ko_keywords": [
+   "공연예술통합전산망(KOPIS)",
+   "공연장 집적의 장소성",
+   "계획행동이론(TPB)",
+   "공연예술상품 특성",
+   "관람객 특성"
+  ],
+  "theme": "infra",
+  "proposed_unit": "institution",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "pid": "P097"
+ },
+ {
+  "author": "신혜승",
+  "year": 2022,
+  "title": "디지털 음악학: 새로운 공간, 새로운 관계 맺기 -보존에서 창조로-",
+  "journal": "음악과 문화",
+  "volissue": "(47)",
+  "pages": "67-103",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002885037",
+  "ko_keywords": [
+   "디지털 인문학",
+   "디지털 음악학",
+   "디지털 아카이브",
+   "데이터베이스",
+   "데이터 시각화",
+   "네트워크",
+   "큐레이션"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "infra_type": "preservation",
+  "pid": "P098"
+ },
+ {
+  "author": "정주영",
+  "year": 2022,
+  "title": "남산예술센터 디지털 아카이브 개선 방안 연구",
+  "journal": "공연문화연구",
+  "volissue": "(44)",
+  "pages": "121-153",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002815041",
+  "ko_keywords": [
+   "남산예술센터 디지털 아카이브",
+   "공간 아카이브",
+   "공공데이터",
+   "네트워크 그래프",
+   "개념 데이터"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "infra_type": "preservation",
+  "pid": "P099"
+ },
+ {
+  "author": "공영민",
+  "year": 2024,
+  "title": "영화인 구술 아카이브의 활용 방안 연구",
+  "journal": "한국학연구",
+  "volissue": "(72)",
+  "pages": "9-40",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003059306",
+  "ko_keywords": [
+   "한국영상자료원",
+   "영화인 구술 아카이브",
+   "수입외화",
+   "소극장",
+   "수입 자유화"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "infra_type": "preservation",
+  "pid": "P100"
+ },
+ {
+  "author": "김수진, 김순희",
+  "year": 2024,
+  "title": "시각예술자료 아카이빙을 위한 수집정책 연구 - 국립현대미술관을 중심으로-",
+  "journal": "한국도서관·정보학회지",
+  "volissue": "55(2)",
+  "pages": "159-187",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003092870",
+  "ko_keywords": [
+   "시각예술자료",
+   "미술자료",
+   "미술기록",
+   "아카이빙",
+   "수집정책"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "E_divide_policy_gen_infra"
+  ],
+  "infra_type": "preservation",
+  "pid": "P101"
+ },
+ {
+  "author": "이정연",
+  "year": 2024,
+  "title": "구술아카이브의 데이터 검색과 공유의 한계점과 개선 방안에 관한 연구",
+  "journal": "구술사연구",
+  "volissue": "15(1)",
+  "pages": "47-72",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003068662",
+  "ko_keywords": [
+   "구술사",
+   "구술 아카이브",
+   "디지털 아카이브 플랫폼",
+   "데이터 구조",
+   "검색 시스템",
+   "색인",
+   "디지털인문학",
+   "융합 연구"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "INFRA_performing_music_film_lit"
+  ],
+  "infra_type": "preservation",
+  "pid": "P102"
+ },
+ {
+  "author": "정슬아, 홍승혜",
+  "year": 2025,
+  "title": "디지털 인문학 관점에서 본 근대문학 데이터베이스 구축과 활용 가능성",
+  "journal": "인문과학연구",
+  "volissue": "(51)",
+  "pages": "25-58",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003182939",
+  "ko_keywords": [
+   "한국 근대문학",
+   "데이터베이스",
+   "디지털 인문학",
+   "코퍼스",
+   "형태소 분석",
+   "표준화"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "INFRA_performing_music_film_lit"
+  ],
+  "infra_type": "preservation",
+  "pid": "P103"
+ },
+ {
+  "author": "김현태, 이정은, 이슬비, 김건, 김수정",
+  "year": 2023,
+  "title": "영화 효과음원 온라인 서비스 개선방안 연구 : K-Sound Library를 중심으로",
+  "journal": "한국기록관리학회지",
+  "volissue": "23(2)",
+  "pages": "49-68",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002963084",
+  "ko_keywords": [
+   "효과음원 아카이브",
+   "온라인서비스",
+   "한국형 효과음원",
+   "패싯분류"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "INFRA_performing_music_film_lit"
+  ],
+  "infra_type": "preservation",
+  "pid": "P104"
+ },
+ {
+  "author": "김현영, 이환수",
+  "year": 2021,
+  "title": "공연예술시장 활성화를 위한 공연예술통합전산망(KOPIS) 개선방안 연구",
+  "journal": "문화와융합",
+  "volissue": "43(8)",
+  "pages": "707-728",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002749427",
+  "ko_keywords": [
+   "공연예술",
+   "공연예술시설",
+   "공연예술시장",
+   "공연예술정책",
+   "공연예술통합전산망"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "INFRA_performing_music_film_lit"
+  ],
+  "infra_type": "preservation",
+  "pid": "P105"
+ },
+ {
+  "author": "최윤영",
+  "year": 2024,
+  "title": "공연예술 아카이브 담론의 실천 연구 - 국립무형유산원 사례를 중심으로 -",
+  "journal": "무용예술학연구",
+  "volissue": "97(4)",
+  "pages": "203-222",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003150827",
+  "ko_keywords": [
+   "공연예술 아카이빙",
+   "국립무형유산원",
+   "전승자 지원과 관리",
+   "기록 생성과 관리",
+   "무형유산 진흥"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "INFRA_performing_music_film_lit"
+  ],
+  "infra_type": "preservation",
+  "pid": "P106"
+ },
+ {
+  "author": "유지호, 김혜정",
+  "year": 2025,
+  "title": "무용 아카이빙의 디지털 전환과 저작권 보호 방안 연구",
+  "journal": "무용예술학연구",
+  "volissue": "100(3)",
+  "pages": "1-15",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003248289",
+  "ko_keywords": [
+   "무용",
+   "디지털 전환",
+   "무용 아카이빙",
+   "저작권 보호",
+   "인공지능"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "INFRA_performing_music_film_lit"
+  ],
+  "infra_type": "preservation",
+  "pid": "P107"
+ },
+ {
+  "author": "최효진",
+  "year": 2023,
+  "title": "국내 지상파 방송사의 아카이브 개방·공유 사업과 아카이브 이용자 연구 : KBS 5.18 아카이브 시민공유 프로젝트",
+  "journal": "기록학연구",
+  "volissue": "(78)",
+  "pages": "197-249",
+  "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003012172",
+  "ko_keywords": [
+   "기록정보서비스",
+   "공공기록",
+   "공공영상아카이브",
+   "방송·영상아카이브",
+   "지상파 방송사",
+   "미디어 공공성",
+   "푸티지영상"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "INFRA_performing_music_film_lit"
+  ],
+  "infra_type": "preservation",
+  "pid": "P108"
+ },
+ {
+  "author": "김지아",
+  "year": 2022,
+  "title": "예술기록에 관한 분류·기술 사례 연구 - 서울시립 미술아카이브를 중심으로 -",
+  "journal": "기록학연구",
+  "volissue": "(74)",
+  "pages": "79-117",
+  "url": "https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002892951",
+  "ko_keywords": [
+   "Art Archives",
+   "분류",
+   "분류체계",
+   "기술",
+   "기술요소"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "INFRA_performing_music_film_lit"
+  ],
+  "infra_type": "preservation",
+  "pid": "P109"
+ },
+ {
+  "author": "김현태, 배나윤, 이진성, 김건",
+  "year": 2025,
+  "title": "K-POP 디지털 아카이브의 글로벌 활용을 위한 전략 연구 : KMDC(Korea Music Data Center)를 중심으로",
+  "journal": "한국기록관리학회지",
+  "volissue": "25(2)",
+  "pages": "1-25",
+  "url": "https://koreascience.kr/article/JAKO202516757604189.pdf",
+  "ko_keywords": [
+   "K-POP",
+   "디지털 아카이브",
+   "KMDC",
+   "Korea Music Data Center",
+   "문화 플랫폼",
+   "글로벌 활용"
+  ],
+  "theme": "infra",
+  "proposed_unit": "infra",
+  "sources": [
+   "INFRA_performing_music_film_lit"
+  ],
+  "infra_type": "preservation",
+  "pid": "P110"
+ }
+]
