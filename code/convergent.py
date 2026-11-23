@@ -45,5 +45,5 @@ for name, code in codings.items():
     print("%-24s %6d %8.1f%% %9.1f%% %8.3f"
           % (name, len(inf), 100 * a / len(archival), 100 * a / len(inf) if inf else 0, phi))
 
-print("\n저널명은 코더에게 제시되지 않았고 코딩에도 쓰이지 않았다.")
+print("\n저널명은 재코딩에 제시되지 않았다. 저자 확정 코딩은 저널명을 본 상태에서 확정되었으므로 블라인드 값이 아니다.")
 print("재현율이 높다는 것은 코드가 분과 경계와 독립적으로 수렴함을 뜻한다.")
